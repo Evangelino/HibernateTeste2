@@ -96,4 +96,5 @@ public final class ClienteControlo {
         propertyChangeSupport.removePropertyChangeListener(propertyChangeListene);
 
     }
+//    Erro ao conectar
 }
