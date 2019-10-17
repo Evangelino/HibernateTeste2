@@ -23,6 +23,11 @@ public class Cliente {
     @Column(name = "NM_CLIENTE",length = 225,nullable = false)
     private String nome;
 
+
+
+     private LocalDate data // tem que importar o localdate
+
+
     public Cliente() {
     }
 
